@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practice-UnitTest</string>
+
+    <string-array name="operations">
+        <item>Suma</item>
+        <item>Resta</item>
+        <item>Multiplicación</item>
+        <item>División</item>
+    </string-array>
+</resources>
